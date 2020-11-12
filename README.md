@@ -1,4 +1,4 @@
-# CS5242-project Instructions
+# CS5242-Kaggle project Instructions
 
 Your task is to build a classification model over a medical image dataset.
 
